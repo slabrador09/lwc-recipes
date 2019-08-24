@@ -3,6 +3,7 @@
         {
             "path": "force-app",
             "default": true,
+            "id": "0HoB0000000GmiJKAS",
             "package": "LWCRecipes",
             "versionName": "Summer '19",
             "versionNumber": "2.0.0.NEXT"
